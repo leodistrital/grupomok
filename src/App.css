@@ -1,0 +1,8 @@
+.resaltar:nth-child(odd){
+  background: #fff5e0;
+}
+
+
+.resaltar:nth-child(even){
+  background: #fbe89c;
+}
